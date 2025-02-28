@@ -1,0 +1,8 @@
+project: 
+  title: "lab_attendance"
+  output-dir: docs
+  type: website
+
+format:
+  html: 
+    self-contained: true

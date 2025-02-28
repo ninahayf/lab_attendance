@@ -1,0 +1,8 @@
+---
+title: "lab_attendance"
+format: html
+name: Nina Hayford
+editor: visual
+---
+
+## I learned that knitting a .qmd file will turn it into a html file.
