@@ -3,6 +3,9 @@ title: "lab_attendance"
 format: html
 name: Nina Hayford
 editor: visual
+
+execute: 
+  echo: true
 ---
 
 ## I learned that knitting a .qmd file will turn it into a html file.
